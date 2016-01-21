@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Aljezur Surf Lessons]]></title>
         <description><![CDATA[Aljezur Surf Lessons]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/aljezur-surf-lessons/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 16:43:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Jan 2016 16:43:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/aljezur-surf-lessons/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a43ef273-57b8-43b1-9386-1c84422c5991.jpg">]]></description>
+            <link>https://thegrid.ai/aljezur-surf-lessons/b749e621-6657-40e8-a871-4411263579ef/index.html</link>
+            <guid isPermaLink="false">b749e621-6657-40e8-a871-4411263579ef</guid>
+            <pubDate>Thu, 21 Jan 2016 16:42:48 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1c737370-a27b-4b89-86f9-2f6f5890aa56.JPG">]]></description>
-            <link>undefined0f63c325-3abd-46fb-8936-5ccd6eac9717/index.html</link>
+            <link>https://thegrid.ai/aljezur-surf-lessons/0f63c325-3abd-46fb-8936-5ccd6eac9717/index.html</link>
             <guid isPermaLink="false">0f63c325-3abd-46fb-8936-5ccd6eac9717</guid>
             <pubDate>Thu, 21 Jan 2016 16:42:37 GMT</pubDate>
         </item>
